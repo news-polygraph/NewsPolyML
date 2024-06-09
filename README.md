@@ -66,6 +66,6 @@ The common labeling scheme adopted in this dataset is inspired by the normalizat
 
 ## Accessing Dataset
 
-**Paper:** TBD
+**Paper:** [NewsPolyML: Multi-lingual European News Fake Assessment Dataset](https://doi.org/10.1145/3643491.3660290)
 
 **Dataset:** [Download NewsPolyML](https://drive.proton.me/urls/P816K00J64#CjS1s5m1xryG)
